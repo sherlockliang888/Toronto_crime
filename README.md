@@ -51,7 +51,8 @@
 
 <h4> Final visualization.md</h4>
 <p> The final Tableau dashboards are available. To view the final view, check out <i> Final visualization.md </i>. 
-Or check out the following links: 
+Or check out the following links:  <br> 
+  
 <a href="https://public.tableau.com/profile/fengshou.liang#!/vizhome/toronto_crime/Dashboard1">Dashboard 1</a>
 <br>
 <a href="https://public.tableau.com/profile/fengshou.liang#!/vizhome/toronto_crime/Dashboard2">Dashboard 2</a>
