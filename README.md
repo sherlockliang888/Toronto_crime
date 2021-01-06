@@ -50,7 +50,15 @@
 <p> A folder containing the splitted tables generated above. </p> 
 
 <h4> Final visualization.md</h4>
-<p> The final Tableau dashboards are available. To view the final view, check out <i> Final visualization.md </i>. </p>
+<p> The final Tableau dashboards are available. To view the final view, check out <i> Final visualization.md </i>. 
+Or check out the following links: 
+<a href="https://public.tableau.com/profile/fengshou.liang#!/vizhome/toronto_crime/Dashboard1">Dashboard 1</a>
+<br>
+<a href="https://public.tableau.com/profile/fengshou.liang#!/vizhome/toronto_crime/Dashboard2">Dashboard 2</a>
+<br>
+<a href="https://public.tableau.com/profile/fengshou.liang#!/vizhome/toronto_crime/Dashboard3">Dashboard 3</a>
+
+</p>
 
 <h4> Acknowledgement</h4>
 Data downloaded<a href = "https://data.torontopolice.on.ca/datasets/mci-2014-to-2019/data"> here</a>.
