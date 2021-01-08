@@ -1,6 +1,6 @@
 <h2> Toronto_crime </h2>
-<p> In progress... Currently building a database with MySQL </p> <br>
-<p> Database normalization, DDL skills, creating BCNF schemas. </p> 
+<p> In progress... Currently writing the final report. </p> <br>
+
 
 <h4> data_dictionary.csv </h4> 
 <p> Data column names definition. </p>
@@ -48,6 +48,9 @@
 
 <h4> toronto crime database </h4>
 <p> A folder containing the splitted tables generated above. </p> 
+
+<h4> MySQL code and outcome.md </h4>
+<p> Answering questions with MySQL.
 
 <h4> Final visualization.md</h4>
 <p> The final Tableau dashboards are available. To view the final view, check out <i> Final visualization.md </i>. 
