@@ -10,6 +10,7 @@ SELECT
 FROM
     crimeevents;
 ```
+![alt text](./Outcome/1.png)
 
 #### 2. How many unique events are there each year?
 ```sql
@@ -20,7 +21,7 @@ FROM
     crimeevents
 GROUP BY YEAR(occurrencedate);
 ```
-
+![alt text](./Outcome/2.png)
 
 #### 3. Which neighbourhood and division have the highest average events per year? 
 ```sql
@@ -40,6 +41,7 @@ FROM
 GROUP BY sub.neighbourhood_id
 ORDER BY avg_count DESC;
 ```
+![alt text](./Outcome/3.png)
 
 ```sql
 SELECT 
@@ -59,6 +61,7 @@ FROM
 GROUP BY sub.Division
 ORDER BY avg_counts DESC;
 ```
+![alt text](./Outcome/32.png)
 
 #### 4. What's the address for each police division and what neighbourhoods are under their supervision?
 ```sql
@@ -76,7 +79,7 @@ WHERE
 GROUP BY cd.Division , ce.Hood_ID
 ORDER BY cd.Division;
 ```
-
+![alt text](./Outcome/4.png)
 
 #### 5. How many events have different occurrence and report dates? 
 ```sql
@@ -105,7 +108,7 @@ WHERE
     ce.event_unique_id = cr.event_unique_id
 GROUP BY Cases_type;
 ```
-
+![alt text](./Outcome/5.png)
 
 #### 6. Which division encountered the most cases on average per year on Christmas Day? 
 ```sql
@@ -127,5 +130,5 @@ FROM
 GROUP BY Division
 ORDER BY avg_counts DESC;
 ```
-
+![alt text](./Outcome/6.png)
 
